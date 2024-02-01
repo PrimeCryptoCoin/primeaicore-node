@@ -20,8 +20,8 @@ Services correspond with a Node.js module as described in 'package.json', for ex
 ```json
 {
   "dependencies": {
-    "primeaicore-lib": "AIPowerGrid/primeaicore-lib",
-    "primeaicore-node": "AIPowerGrid/primeaicore-node",
+    "primeaicore-lib": "PrimeCryptoCoin/primeaicore-lib",
+    "primeaicore-node": "PrimeCryptoCoin/primeaicore-node",
     "insight-api": "underdarkskies/insight-api"
   }
 }

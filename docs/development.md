@@ -129,7 +129,7 @@ Edit `primeaicore-node.json` with something similar to:
 }
 ```
 
-**Note**: To install services [insight-api](https://github.com/underdarkskies/insight-api) and [insight-ui](https://github.com/AIPowerGrid/primeai-insight-block-explorer) you'll need to clone the repositories locally.
+**Note**: To install services [insight-api](https://github.com/underdarkskies/insight-api) and [insight-ui](https://github.com/PrimeCryptoCoin/primeai-insight-block-explorer) you'll need to clone the repositories locally.
 
 Setup symlinks for all of the services and dependencies:
 

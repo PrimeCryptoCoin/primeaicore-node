@@ -1,6 +1,6 @@
 # primeaicoin Service
 
-The primeaicoin Service is a Node.js interface to [primeaicoin](https://github.com/AIPowerGrid/AI-Power-Grid-Core) for querying information about the primeaicoin block chain. It will manage starting and stopping `primeaid` or connect to several running `primeaid` processes. It uses a branch of a [branch of primeaicoin](https://github.com/underdarkskies/primeaicoin/tree/0.15.0-primeaicore/) with additional indexes for querying information about addresses and blocks. Results are cached for performance and there are several additional API methods added for common queries.
+The primeaicoin Service is a Node.js interface to [primeaicoin](https://github.com/PrimeCryptoCoin/AI-Power-Grid-Core) for querying information about the primeaicoin block chain. It will manage starting and stopping `primeaid` or connect to several running `primeaid` processes. It uses a branch of a [branch of primeaicoin](https://github.com/underdarkskies/primeaicoin/tree/0.15.0-primeaicore/) with additional indexes for querying information about addresses and blocks. Results are cached for performance and there are several additional API methods added for common queries.
 
 ## Configuration
 

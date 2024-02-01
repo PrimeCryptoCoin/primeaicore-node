@@ -4,10 +4,10 @@
   "author": "Under",
   "version": "1.0.3",
   "main": "./index.js",
-  "repository": "git://github.com/AIPowerGrid/primeaicore-node.git",
-  "homepage": "https://github.com/AIPowerGrid/primeaicore-node",
+  "repository": "git://github.com/PrimeCryptoCoin/primeaicore-node.git",
+  "homepage": "https://github.com/PrimeCryptoCoin/primeaicore-node",
   "bugs": {
-    "url": "https://github.com/AIPowerGrid/primeaicore-node/issues"
+    "url": "https://github.com/PrimeCryptoCoin/primeaicore-node/issues"
   },
   "bin": {
     "primeaicore-node": "./bin/primeaicore-node",
@@ -28,8 +28,8 @@
   ],
   "dependencies": {
     "async": "2.6.2",
-    "primeaid-rpc": "AIPowerGrid/primeaid-rpc",
-    "primeaicore-lib": "AIPowerGrid/primeaicore-lib",
+    "primeaid-rpc": "PrimeCryptoCoin/primeaid-rpc",
+    "primeaicore-lib": "PrimeCryptoCoin/primeaicore-lib",
     "body-parser": "1.18.3",
     "colors": "1.3.3",
     "commander": "2.20.0",
@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "primeaicore-p2p": "AIPowerGrid/primeaicore-p2p",
+    "primeaicore-p2p": "PrimeCryptoCoin/primeaicore-p2p",
     "chai": "^4.1.2",
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.3",
