@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var primeaicore = require('../lib/cli/primeaicore');
+primeaicore();
